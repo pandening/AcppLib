@@ -9,7 +9,7 @@
 	  but,this library's root owner is hujian(nankai.cs.hujian)
 	  any other want to choose this library for some thing
 	  about change the attribute will Received some paper
-	  from Mr.hujian from Chian,so you can copy,change or delete
+	  from Mr.hujian from China,so you can copy,change or delete
 	  but not including owner it.
 
 	    this library is open for everyone(like or dislike).
